@@ -1,0 +1,13 @@
+{
+  "name": "MTS Traders & Builders",
+  "short_name": "MTS Builders",
+  "description": "Trusted construction company in Toba Tek Singh, Pakistan — grey structure, turnkey construction, and property marketplace.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F1A",
+  "theme_color": "#0B0F1A",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
